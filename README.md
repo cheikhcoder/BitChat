@@ -21,3 +21,9 @@ Langue Locale : Proposez du contenu en wolof, en plus du français, pour toucher
 
 Programme de Récompenses et de Parrainage : Récompensez les utilisateurs pour parrainer de nouveaux membres.
 
+# logo 
+
+![logo](my_app/images/Bitcoin.png)
+
+
+
