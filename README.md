@@ -21,3 +21,18 @@ Langue Locale : Proposez du contenu en wolof, en plus du français, pour toucher
 
 Programme de Récompenses et de Parrainage : Récompensez les utilisateurs pour parrainer de nouveaux membres.
 
+# logo 
+
+![logo](my_app/images/Bitcoin.png)
+Le projet consiste en la création d'une application éducative et communautaire sur le Bitcoin spécifiquement adaptée au marché sénégalais. L'objectif est d'attirer les Sénégalais vers l'application en proposant des fonctionnalités éducatives, informatives et interactives liées au Bitcoin, tout en favorisant la création d'une communauté passionnée.
+
+## Technologies Utilisées
+
+- [Flutter](https://flutter.dev) : Un framework open source pour le développement d'applications multiplateformes. Nous utilisons Flutter pour créer une interface utilisateur attrayante et réactive, qui fonctionnera sur différentes plateformes, notamment Android, iOS et le web.
+
+- [Firebase](https://firebase.google.com) : Une plateforme de développement d'applications mobiles et web de Google. Firebase est utilisé pour la gestion des utilisateurs, l'authentification, le stockage de données, les notifications push et l'hébergement de l'application.
+
+- [OpenAI API](https://beta.openai.com) : L'API de chat GPT-3 d'OpenAI est utilisée pour alimenter le chatbot d'assistance, fournir des réponses informatives aux questions des utilisateurs et créer un contenu éducatif sur le Bitcoin.
+
+
+
