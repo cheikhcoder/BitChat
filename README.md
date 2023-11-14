@@ -43,8 +43,8 @@ To get started with BitChat mobile a, follow these instructions:
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/moctou/shaty.git
-cd shaty/shatypay
+git clone https://github.com/Cheikhcoder/BitChat
+cd BitcoinHackaton/my_app
 ```
 
 Install dependencies:
