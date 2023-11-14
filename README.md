@@ -34,5 +34,27 @@ Le projet consiste en la création d'une application éducative et communautaire
 
 - [OpenAI API](https://beta.openai.com) : L'API de chat GPT-3 d'OpenAI est utilisée pour alimenter le chatbot d'assistance, fournir des réponses informatives aux questions des utilisateurs et créer un contenu éducatif sur le Bitcoin.
 
+  ## Getting Started
+
+To get started with BitChat mobile a, follow these instructions:
+
+### Installation
+
+Clone this repository to your local machine:
+
+```
+git clone https://github.com/moctou/shaty.git
+cd shaty/shatypay
+```
+
+Install dependencies:
+```
+flutter pub get
+```
+Run the app:
+```
+flutter run
+```
+
 
 
