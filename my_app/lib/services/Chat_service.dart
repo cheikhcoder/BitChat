@@ -1,4 +1,5 @@
 import 'package:http/http.dart' as http;
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'api_key.dart';
 import 'chat_request.dart';
 import 'chat_response.dart';
@@ -9,7 +10,7 @@ class ChatService {
 
   static final Map<String, String> headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer ${ApiKey.openAIApiKey}',
+    'Authorization': 'Bearer ${dotenv.env['OPENAI_API_KEY']}',
   };
 
   Future<String?> request(String prompt) async {
