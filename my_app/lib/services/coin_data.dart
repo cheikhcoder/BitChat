@@ -22,7 +22,8 @@ const List<String> currenciesList = [
   'SEK',
   'SGD',
   'USD',
-  'ZAR'
+  'ZAR',
+  'FCFA',
 ];
 
 const List<String> cryptoList = ['bitcoin', 'ethereum', 'litecoin'];

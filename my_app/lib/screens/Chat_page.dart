@@ -58,6 +58,10 @@ class _ChatScreenState extends State<ChatScreen> {
                           borderRadius: BorderRadius.circular(10),
                         ),
                       ),
+                      onSubmitted: (value) {
+                        sendMessage(value);
+                        messageController.clear();
+                      },
                     ),
                   ),
                   isLoading
@@ -72,7 +76,7 @@ class _ChatScreenState extends State<ChatScreen> {
                         ),
                 ],
               ),
-            ),
+            )
           ],
         ),
       ),
