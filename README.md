@@ -46,10 +46,12 @@ Clone this repository to your local machine:
 git clone https://github.com/Cheikhcoder/BitChat
 cd BitcoinHackaton/my_app
 ```
+### create a .env file in the project root and put your OPENAI_API_KEY in it like this OPENAI_API_KEY = "YOUR_API_KEY"
 
-Install dependencies:
+### Install dependencies:
 ```
 flutter pub get
+
 ```
 Run the app:
 ```
